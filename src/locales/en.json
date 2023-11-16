@@ -1,0 +1,10 @@
+{
+  "title":"Math Equation Generator - supported by MathJax and TeX",
+  "wiki_web_text":"TeX code table",
+  "wiki_web": "https://en.wikipedia.org/wiki/Help:Displaying_a_formula",
+  "choose_table": "Please select a table",
+  "choose_field": "Please select a field",
+  "choose_attachment_field": "Please select a attachment field",
+  "insert": "Insert",
+  "inserting": "Inserting..."
+}

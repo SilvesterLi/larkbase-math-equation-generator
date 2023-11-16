@@ -1,0 +1,10 @@
+{
+  "title":"数学公式生成器 - MathJax&TeX支持",
+  "wiki_web_text": "TeX编码对照表",
+  "wiki_web": "https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F",
+  "choose_table": "请选择数据表",
+  "choose_field": "请选择字段",
+  "choose_attachment_field": "请选择附件字段",
+  "insert": "插入",
+  "inserting": "插入中..."
+}
