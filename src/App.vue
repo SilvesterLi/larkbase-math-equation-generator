@@ -6,12 +6,12 @@
 
 <script>
 import Form from "./components/Form.vue";
-import Math from "./components/math.vue";
+
 export default {
   name: "App",
   components: {
     Form: Form,
-    Math: Math
+
   },
 
 };
