@@ -30,7 +30,7 @@
     </div>
 
   </div>
-  <Elbutton type="primary" @click="capture">{{buttonText}}</Elbutton>
+  <el-button type="primary" @click="capture">{{buttonText}}</el-button>
 </template>
 
 <script>
