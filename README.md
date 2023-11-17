@@ -10,6 +10,6 @@
 
 # 在线运行 / Online Project Running
 
-您可以登录 [Replit]([https://bytedance.feishu.cn/docx/VxhudDXbyo1V7jxAcTbctJQ5nvc](https://replit.com/@Silvester2001/larkbase-math-equation-generator))进行在线fork和预览 / You can login to [Replit]([https://bytedance.feishu.cn/docx/VxhudDXbyo1V7jxAcTbctJQ5nvc](https://replit.com/@Silvester2001/larkbase-math-equation-generator)) for online preview or fork
+您可以登录 [Replit](https://replit.com/@Silvester2001/larkbase-math-equation-generator)进行在线fork和预览 / You can login to [Replit](https://replit.com/@Silvester2001/larkbase-math-equation-generator) for online preview or fork
 
 
