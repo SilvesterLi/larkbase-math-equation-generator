@@ -1,7 +1,7 @@
 {
-  "title":"数学公式生成器 - MathJax&TeX支持",
+  "title": "数学公式生成器 - MathJax&TeX支持",
   "wiki_web_text": "TeX编码对照表",
-  "wiki_web": "https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F",
+  "wiki_web": "https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F#%E5%87%BD%E6%95%B0%E3%80%81%E7%AC%A6%E5%8F%B7%E5%8F%8A%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6",
   "choose_table": "请选择数据表",
   "choose_field": "请选择字段",
   "choose_attachment_field": "请选择附件字段",
