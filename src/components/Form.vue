@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <a @click="openTable()">{{ $t("wiki_web_text")}}</a>
-    <el-form-item label="选择数据表" size="large">
-      <el-select v-model="formData.table" @change="tableChange" placeholder="请选择数据表" style="width: 100%">
+    <el-form-item :label="this.$i18n.t('choose_table')" size="large">
+      <el-select v-model="formData.table" @change="tableChange" :placeholder="this.$i18n.t('choose_table')" style="width: 100%">
         <el-option
             v-for="meta in tableMetaList"
             :key="meta.id"
@@ -11,8 +11,8 @@
         />
       </el-select>
     </el-form-item>
-    <el-form-item label="选择字段" size="large">
-      <el-select v-model="formData.field" placeholder="请选择字段" style="width: 100%">
+    <el-form-item :label="this.$i18n.t('choose_field')" size="large">
+      <el-select v-model="formData.field" :placeholder="this.$i18n.t('choose_table')" style="width: 100%">
         <el-option
             v-for="meta in fieldMetaList"
             :key="meta.id"
